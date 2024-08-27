@@ -1,5 +1,5 @@
 ![MasterHead](https://camo.githubusercontent.com/0bc88fe1a37c792f8a62e1b770b0b39e886405c1043d59a43fd0a7c27c2688b2/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)
-<h1 align="center">👋 Hello, I'm Adhan!</h1>
+<h1 align="center">Hello 👋, I'm Adhan!</h1>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akuadhan&label=Profile%20views&color=0e75b6&style=flat" alt="akuadhan" /> </p>
