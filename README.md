@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akuadhan" alt="akuadhan" /></a> </p>
 
-- 🌱 I’m currently learning **Lua, Flutter.**
+- 🔭 I’m currently studying on **Universitas Sumatera Utara**
+
+- 🌱 I’m currently learning **anything.**
 
 - 📫 How to reach me **muhadhan5291@gmail.com**
 
